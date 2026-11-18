@@ -1,0 +1,6 @@
+{
+  "name": "MEMORY PLAY",
+  "description": "Desafie sua memória! Jogo da memória interativo e educativo com três níveis de dificuldade e sistema de pontuação.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
